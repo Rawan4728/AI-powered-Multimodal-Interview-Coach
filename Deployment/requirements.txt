@@ -1,0 +1,36 @@
+# Core scientific & ML
+numpy==1.26.4
+torch==2.1.2
+tqdm==4.67.1
+opencv-python-headless
+tf-keras==2.19.0
+
+# Whisper for video/audio transcription
+openai-whisper==20240930
+
+# Gradio UI
+gradio==4.17.0
+
+# LangChain Ecosystem (compatible versions)
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-core==0.1.35
+langsmith==0.1.29
+chromadb==0.4.14
+
+
+openai==0.28.1
+
+
+# Hugging Face (if used)
+transformers==4.39.3
+sentence-transformers==2.7.0
+
+# Video processing
+moviepy==1.0.3
+mediapipe==0.10.21
+deepface==0.0.93
+
+# PDF processing
+PyMuPDF==1.23.22
+pypdf
